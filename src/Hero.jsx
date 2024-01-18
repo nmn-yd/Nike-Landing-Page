@@ -19,11 +19,11 @@ function Hero() {
                 <p>Also Available On</p>
                 <img
                   className="flipkart"
-                  src="../public/flipkart.png"
+                  src="flipkart.png"
                   alt="flipkart shopping app icon"
                 />
                 <img
-                  src="../public/amazon.png"
+                  src="amazon.png"
                   alt="Amazon shopping app icon"
                 />
               </div>
