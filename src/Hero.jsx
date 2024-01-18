@@ -29,7 +29,7 @@ function Hero() {
               </div>
             </div>
             <div className="right">
-              <img src="../public/nike.png" alt="shoe Image" />
+              <img src="nike.png" alt="shoe Image" />
             </div>
           </div>
         </div>
